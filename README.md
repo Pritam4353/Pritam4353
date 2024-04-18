@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pritam4353
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Pritam Kumar
+- 👀 I’m like to building projects with my team.
 - 🌱 I’m currently learning JAVA with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Pr_itam3515 @insta @snap @telegram @twitter
