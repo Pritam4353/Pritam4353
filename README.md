@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pritam Kumar
 - 👀 I’m like to building projects with my team.
 - 🌱 I’m currently learning JAVA with DSA
-- My skills are C,C++,Java,Python,SQL,Oracle,SpringBoot
+- My skills are C, C++, Java, Python, SQL, Oracle, SpringBoot, AWS(EC2, VPC, IAM, etc.), Docker(Container and images)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Pr_itam3515 @insta @snap @telegram @twitter
 
